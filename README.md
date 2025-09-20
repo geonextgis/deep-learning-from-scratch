@@ -1,18 +1,26 @@
-# Deep Learning from Scratch (PyTorch) 🔥
+# 🌍 DL4Geo: Deep Learning from Scratch for Geospatial Data  
 
-This repository is a **comprehensive collection of deep learning models implemented from scratch in PyTorch**.  
-The goal: rebuild all major architectures, understand their inner workings, and provide an educational reference for the community.  
+Welcome to **dl4geo** — a hands-on roadmap for learning and applying **Deep Learning in Geospatial and Earth Observation (EO) applications**.  
+This repository is inspired by the idea of *“learning from scratch”* but tailored to the unique challenges of **satellite imagery, multispectral/hyperspectral data, and geospatial analysis**.  
 
 ---
 
-## 🔍 Vision
-Recreate **every major deep learning model**, using **PyTorch only** (no pretrained weights, no high-level wrappers):
+## 📌 Goals
+- Build deep learning models **from the ground up**, starting with the basics.  
+- Apply models to **geospatial datasets**: crop health, land cover, object detection, segmentation, change detection, etc.  
+- Provide **clean, reproducible code** with step-by-step progression.  
+- Serve as both a **learning guide** and a **research playground**.  
 
-- **Classical Networks**: Perceptron, Logistic Regression, MLP  
-- **CNNs**: LeNet, AlexNet, VGG, ResNet, EfficientNet  
-- **RNNs**: Vanilla RNN, LSTM, GRU  
-- **Transformers**: Attention, GPT, BERT, Vision Transformers  
-- **Generative Models**: Autoencoders, GANs, Diffusion Models  
-- **Advanced Models**: Graph Neural Networks, Reinforcement Learning agents  
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Open an issue or submit a PR if you’d like to add new models, datasets, or tutorials.
+
+---
+
+## 📜 License
+
+MIT License – feel free to use this repo for learning and research.
 
 ---
