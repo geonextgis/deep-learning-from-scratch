@@ -1,6 +1,6 @@
-# 🌍 DL4Geo: Deep Learning from Scratch for Geospatial Data  
+# 🌍 DL4EO: Deep Learning from Scratch for Earth Observation
 
-Welcome to **dl4geo** — a hands-on roadmap for learning and applying **Deep Learning in Geospatial and Earth Observation (EO) applications**.  
+Welcome to **dl4eo** — a hands-on roadmap for learning and applying **Deep Learning in Geospatial and Earth Observation (EO) applications**.  
 This repository is inspired by the idea of *“learning from scratch”* but tailored to the unique challenges of **satellite imagery, multispectral/hyperspectral data, and geospatial analysis**.  
 
 ---
